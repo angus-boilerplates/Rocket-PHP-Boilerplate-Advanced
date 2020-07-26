@@ -11,5 +11,5 @@
 <!--Custom scripts under here -->
 
 <footer>
-	&copy 2020 <a id="rocketLink" target="_blank" href="https://github.com/angusgoody/Rocket-PHP-Boilerplate">Rocket PHP Boilerplate <b>2.0</b></a>
+	&copy 2020 <a id="rocketLink" target="_blank" href="https://github.com/angusgoody/Rocket-PHP-Boilerplate-Advanced">Rocket PHP Boilerplate <b>Advanced</b></a>
 </footer>

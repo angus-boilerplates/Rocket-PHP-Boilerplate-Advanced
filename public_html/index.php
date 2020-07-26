@@ -12,8 +12,8 @@
 	<!-- Title bar -->
 	<div class="jumbotron jumbotron-fluid">
 	  <div class="container text-center">
-	    <h1 class="display-4">Homepage</h1>
-	    <p class="lead">This is a small description of the homepage</p>
+	    <h1 class="display-4">Welcome</h1>
+	    <p class="lead">This is the Rocket PHP boilerplate <i>advanced</i> version</p>
 	  </div>
 	</div>
 	<!-- Content -->
