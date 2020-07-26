@@ -27,6 +27,9 @@ $secret_key = secret_key_1();
 			<!--Download card -->
 		  <div class="card-body text-center">
 		    <p class="card-text">An example of serving files to a user</p>
+		    <div class="alert alert-warning w-50 mx-auto">
+		      Note: PHP will need write permission on your server, otherwise the zip files will be unreadable.
+		    </div>
 		    <form action="/download-files" action="post" class="mx-auto">
 		    	<button type="submit" class="btn btn-primary">Example Download</button>
 		    </form>
