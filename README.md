@@ -27,13 +27,16 @@ this template can easily be modified to create a responsive, efficient PHP websi
 The template comes with a .htaccess file that will automatically hide the .php extension from the URL, it will also redirect 404 and 403 errors to the following files...
 - invalid404.php: The page could not be found
 - forbidden403: You do not have permission to access this page
-## Getting Started
 
 ### private_data folder
 A folder which can store sensitive data, this folder will not be visible to the public and can be used to store api keys, passwords etc. 
 
 ### download_content folder
 This folder can be used to store files you wish visitors to be able to download, using the file "download-files.php" you can easily configure this to allow users to download content from your site.
+
+
+## Getting Started
+
 
 ### Prerequisites
 
