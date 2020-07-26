@@ -12,7 +12,7 @@
 	<div class="jumbotron jumbotron-fluid">
 	  <div class="container text-center">
 	    <h1 class="display-4">Page 2</h1>
-	    <p class="lead">This is a small description of what is on page 2</p>
+	    <p class="lead">Example of Bootstrap row's and columns</p>
 	  </div>
 	</div>
 	<!-- Content -->
